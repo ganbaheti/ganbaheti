@@ -1,7 +1,18 @@
 > # Always Seeking to Help Others 👋 [Ganbaheti!](http://ompal.me)
+<a href="https://twitter.com/09ganbeast">
+  <img align="left" alt="Gagan Baheti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/gagan-baheti-62230614b">
+  <img align="left" alt="Gagan Baheti LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/gan._.baheti/">
+  <img align="left" alt="Gagan Baheti Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
+<br />
 
-
-<img src ="">
+Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blogger 🙍🏽‍♂️ [@instagram](https://www.instagram.com/theculinarybae/?hl=en), Freelancer 👨🏽‍💻, Beside's programming, I enjoy esports gaming and adventure rides.
+  
 - 🔭 I’m currently working on Data Science.
 - 🌱 I’m currently learning Data Analytics.
 - 👯 I’m looking to collaborate on Data Exploration Project.
