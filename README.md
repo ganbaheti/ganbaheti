@@ -24,13 +24,13 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
 ✑ 👯 I’m looking to collaborate in deep learning, analytics and data science.
 
 
-✑ 🤔 Visit My Food Blogging Site [site](https://theculinarybae.xyz).
+✑ 🤔 Visit My Food Blogging [site](https://theculinarybae.xyz).
 
 
 ✑ 💬 Ask me about Online Multiplayer Games, Gadgets and Stock Market.
 
 
-> Feel free to add me on Steam [Steam] (https://steamcommunity.com/id/yuckfoubitch/).
+> Feel free to add me on [Steam](https://steamcommunity.com/id/yuckfoubitch/).
 
 
 ✑ 📫 Feel Free to Contact: [Facebook](https://www.facebook.com/gagan.baheti.5) , [Linkedin](https://in.linkedin.com/in/gagan-baheti-62230614b), [Quora](https://www.quora.com/profile/Gagan-Baheti-1), [Behance](https://www.behance.net/ganbaheti).
