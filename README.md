@@ -10,6 +10,7 @@
 </a>
 <br />
 <br />
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganbaheti" alt="devded" /></p>
 
 Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blogger 🙍🏽‍♂️ [@instagram](https://www.instagram.com/theculinarybae/?hl=en), Freelancer 👨🏽‍💻, Beside's programming, I enjoy esports gaming and adventure rides.
   
@@ -41,7 +42,7 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
 
 
 
-![Ganbaheti's github stats](https://github-readme-stats.vercel.app/api?username=ganbaheti&show_icons=true&hide_border=true)
+[![Ganbaheti's github stats](https://github-readme-stats.vercel.app/api?username=ganbaheti&show_icons=true&hide_border=true&theme=cobalt)](https://github.com/ganbaheti/github-readme-stats)
 
 
 
