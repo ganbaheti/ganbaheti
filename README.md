@@ -7,7 +7,9 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/gagan.baheti.5) , [Linkedin](https://in.linkedin.com/in/gagan-baheti-62230614b), [Quora](https://www.quora.com/profile/Gagan-Baheti-1), [Behance](https://www.behance.net/ganbaheti).
 - 😄 Pronouns: yuckfoubitch : My in-game Name.
 > ⚡ Fun fact:
-> 1v5 , Yes, I will clutch. ...
+> 1v5 , Yes, I will clutch. 
+# @ganbaheti
+
 <!--
 **ganbaheti/ganbaheti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
