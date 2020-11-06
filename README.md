@@ -44,9 +44,9 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
 
 
 [![Ganbaheti's github stats](https://github-readme-stats.vercel.app/api?username=ganbaheti&show_icons=true&hide_border=true&theme=radical)](https://github.com/ganbaheti/github-readme-stats)
-
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ganbaheti&repo=github-readme-stats)](https://github.com/ganbaheti/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganbaheti)](https://github.com/ganbaheti/github-readme-stats)
+[![Ganbaheti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ganbaheti)](https://github.com/ganbaheti/github-readme-stats)
 
 
 
