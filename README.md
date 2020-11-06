@@ -11,17 +11,18 @@
 </a>
 <br />
 <br />
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganbaheti" alt="devded" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganbaheti" alt="devded" /></p>
 
 Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blogger 🙍🏽‍♂️ [@instagram](https://www.instagram.com/theculinarybae/?hl=en), Freelancer 👨🏽‍💻, Beside's programming, I enjoy esports gaming and adventure rides.
   
-- 🔭 I’m currently working on Data Science.
-- 🌱 I’m currently learning Data Analytics.
-- 👯 I’m looking to collaborate on Data Exploration Project.
-- 🤔 I’m looking for help with Pro Data Analysts.
-- 💬 Ask me about Online Multiplayer Games, Gadgets and Stock Market.
-- 📫 How to reach me: [Facebook](https://www.facebook.com/gagan.baheti.5) , [Linkedin](https://in.linkedin.com/in/gagan-baheti-62230614b), [Quora](https://www.quora.com/profile/Gagan-Baheti-1), [Behance](https://www.behance.net/ganbaheti).
-- 😄 Pronouns: yuckfoubitch :pistol: My in-game Name.
+✑ 🔭 I’m currently working on Data Science.
+✑ 🌱 I’m currently learning Data Analytics.
+✑ 👯 I’m looking to collaborate in deep learning, analytics and data science.
+✑ 🤔 Visit My Food Blogging Site [blog site](https://theculinarybae.xyz).
+✑ 💬 Ask me about Online Multiplayer Games, Gadgets and Stock Market.
+> Feel free to add me on Steam [Steam] (https://steamcommunity.com/id/yuckfoubitch/)
+✑ 📫 Feel Free to Contact: [Facebook](https://www.facebook.com/gagan.baheti.5) , [Linkedin](https://in.linkedin.com/in/gagan-baheti-62230614b), [Quora](https://www.quora.com/profile/Gagan-Baheti-1), [Behance](https://www.behance.net/ganbaheti).
+✑ 😄 Pronouns: yuckfoubitch :pistol: My in-game Name.
 > ⚡ Fun fact:
 > 1v5 , Yes, I will clutch. 
 ##### @ganbaheti
