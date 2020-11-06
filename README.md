@@ -41,7 +41,14 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ganbaheti&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ganbaheti&hide=css,java,html&theme=tokyonight">
+</p>
+</details>
 
 [![Ganbaheti's github stats](https://github-readme-stats.vercel.app/api?username=ganbaheti&show_icons=true&hide_border=true&theme=radical)](https://github.com/ganbaheti/github-readme-stats)
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ganbaheti&repo=github-readme-stats)](https://github.com/ganbaheti/github-readme-stats)-->
