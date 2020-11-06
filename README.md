@@ -49,11 +49,57 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ganbaheti&hide=css,java,html&theme=tokyonight">
 </p>
 </details>
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
 
-[![Ganbaheti's github stats](https://github-readme-stats.vercel.app/api?username=ganbaheti&show_icons=true&hide_border=true&theme=radical)](https://github.com/ganbaheti/github-readme-stats)
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ganbaheti&repo=github-readme-stats)](https://github.com/ganbaheti/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganbaheti)](https://github.com/ganbaheti/github-readme-stats)
-<!--[![Ganbaheti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ganbaheti)](https://github.com/ganbaheti/github-readme-stats)
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    118 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
+🌆 Daytime    214 commits    ████████░░░░░░░░░░░░░░░░░   33.23% 
+🌃 Evening    234 commits    █████████░░░░░░░░░░░░░░░░   36.34% 
+🌙 Night      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
+Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
+Wednesday    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
+Thursday     101 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+Friday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+Saturday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
+Sunday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.63%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         10 repos            █████████████████░░░░░░░░   71.43% 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+
+<!--END_SECTION:waka-->
+
+</details>
 
 
 
