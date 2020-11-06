@@ -1,6 +1,5 @@
 > # Always Seeking to Help Others <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [Ganbaheti!](http://ompal.me)
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
-<img align='right' src="https://media.giphy.com/media/10FwycrnAkpshW/giphy.gif" width="230"> 
+ <img align='right' src="https://media.giphy.com/media/xT1XGEVSIzSoraiPTO/giphy.gif" width="230"> 
 <a href="https://twitter.com/09ganbeast">
   <img align="left" alt="Gagan Baheti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
