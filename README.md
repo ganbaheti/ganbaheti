@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Data Exploration Project.
 - 🤔 I’m looking for help with Pro Data Analysts.
 - 💬 Ask me about Games, Gadgets and Stock Market.
-- 📫 How to reach me: Facebook , Linkedin, Quora, Behance.
+- 📫 How to reach me: [Facebook](https://www.facebook.com/gagan.baheti.5) , Linkedin, Quora, Behance.
 - 😄 Pronouns: yuckfoubitch : My in-game Name.
 > ⚡ Fun fact:
 > 1v5 , Yes, I will clutch. ...
