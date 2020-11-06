@@ -43,7 +43,7 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
 
 
 
-[![Ganbaheti's github stats](https://github-readme-stats.vercel.app/api?username=ganbaheti&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/ganbaheti/github-readme-stats)
+[![Ganbaheti's github stats](https://github-readme-stats.vercel.app/api?username=ganbaheti&show_icons=true&hide_border=true&theme=radical)](https://github.com/ganbaheti/github-readme-stats)
 
 
 
