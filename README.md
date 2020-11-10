@@ -1,4 +1,4 @@
-> # Always Seeking to Help Others <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [Ganbaheti!](https://www.ompal.xyz)
+> # Always Seeking to Help Others <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [Ganbaheti!](https://www.gaganbaheti.me)
  <img align='right' src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="330" height="500"> 
 <br />
 <br />
@@ -6,7 +6,7 @@
 
 Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blogger 🙍🏽‍♂️ [@instagram](https://www.instagram.com/theculinarybae/?hl=en), Freelancer 👨🏽‍💻, Beside's programming, I enjoy esports gaming and adventure rides.
   
-✑ 🔭 I’m currently working on Data Science.
+✑ 🔭 I’m currently working on my blogs [Malware Hack!](https://www.ompal.xyz).
 
 
 ✑ 🌱 I’m currently learning Data Analytics.
@@ -26,7 +26,7 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
 > 1v5 , Yes, I will clutch. 
 ##### @ganbaheti
 <p align="center">
-  <a href="https://www.ompal.xyz"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="https://www.gaganbaheti.me"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
  <a href="mailto:gaganbaheti99@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.facebook.com/gagan.baheti.5"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://twitter.com/09ganbeast"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
