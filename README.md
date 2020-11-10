@@ -1,14 +1,5 @@
 > # Always Seeking to Help Others <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [Ganbaheti!](http://ompal.me)
  <img align='right' src="https://media.giphy.com/media/xT1XGEVSIzSoraiPTO/giphy.gif" width="230"> 
-<a href="https://twitter.com/09ganbeast">
-  <img align="left" alt="Gagan Baheti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gagan-baheti-62230614b">
-  <img align="left" alt="Gagan Baheti LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/gan._.baheti/">
-  <img align="left" alt="Gagan Baheti Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganbaheti" alt="devded" /></p>
@@ -28,12 +19,6 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
 
 
 ✑ 💬 Ask me about Online Multiplayer Games, Gadgets and Stock Market.
-
-
-> Feel free to add me on [Steam](https://steamcommunity.com/id/yuckfoubitch/).
-
-
-✑ 📫 Feel Free to Contact: [Facebook](https://www.facebook.com/gagan.baheti.5) , [Linkedin](https://in.linkedin.com/in/gagan-baheti-62230614b), [Quora](https://www.quora.com/profile/Gagan-Baheti-1), [Behance](https://www.behance.net/ganbaheti).
 
 
 ✑ 😄 Pronouns: yuckfoubitch ︻╦╤─ My in-game Name.
