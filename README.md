@@ -40,6 +40,22 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
 > ⚡ Fun fact:
 > 1v5 , Yes, I will clutch. 
 ##### @ganbaheti
+<p align="center">
+  <a href="https://www.ompal.xyz"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+ <a href="mailto:gaganbaheti99@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.facebook.com/gagan.baheti.5"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://twitter.com/09ganbeast"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.youtube.com/channel/UCHFaA-jwAiFNVLguKZ7ha1A"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://www.reddit.com/user/09ganbeast"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
+  <a href="https://www.instagram.com/theculinarybae"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.twitch.tv/09ganbeast"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
+  <a href="https://in.pinterest.com/gaganbaheti"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
+  <a href="https://in.linkedin.com/in/gagan-baheti-62230614b"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://medium.com/@gaganbaheti_it20"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://steamcommunity.com/id/yuckfoubitch/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+</p>
+
+
 
 **Languages and Tools:**  
 
