@@ -30,7 +30,7 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
  <a href="mailto:gaganbaheti99@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.facebook.com/gagan.baheti.5"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://twitter.com/09ganbeast"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.youtube.com/channel/UCHFaA-jwAiFNVLguKZ7ha1A"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://www.youtube.com/channel/UCHFaA-jwAiFNvLguKZ7ha1A"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.reddit.com/user/09ganbeast"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
   <a href="https://www.instagram.com/theculinarybae"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.twitch.tv/09ganbeast"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
