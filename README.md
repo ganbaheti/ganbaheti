@@ -24,6 +24,13 @@ Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blo
 ✑ 😄 Pronouns: yuckfoubitch ︻╦╤─ My in-game Name.
 > ⚡ Fun fact:
 > 1v5 , Yes, I will clutch. 
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gaganbaheti_it20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gaganbaheti_it20/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gaganbaheti_it20/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gaganbaheti_it20/1" alt="Recent Article 1"> 
+
+
+
 ##### @ganbaheti
 <p align="center">
   <a href="https://www.gaganbaheti.me"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
