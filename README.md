@@ -27,10 +27,6 @@ This is my Hashtree which is made by Hashnode API. [Connect With me](https://has
 > ⚡ Fun fact:
 > 1v5 , Yes, I will clutch. 
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gaganbaheti_it20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gaganbaheti_it20/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gaganbaheti_it20/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gaganbaheti_it20/1" alt="Recent Article 1"> 
-
 
 
 ##### @ganbaheti
