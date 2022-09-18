@@ -70,7 +70,6 @@ This is my Hashtree which is made by Hashnode API. [Connect With me](https://has
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ganbaheti&show_icons=true&theme=tokyonight&line_height=27">
- [![Gagan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ganbaheti)](https://github.com/ganbaheti/github-readme-stats)
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ganbaheti&hide=css,java,html&theme=tokyonight">
 </p>
 </details>
