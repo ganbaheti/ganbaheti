@@ -13,7 +13,7 @@ I currently live in Bangalore and working as a Security Consultant at IBM.
 
 I follow a number of sports ranging from Cricket, UFC, Soccer⚽, Formula1🏎️ to various eSports🖱️. Other than that, I love solving puzzles🧩, playing chess on chess.com and listening to music🎶.
 
-I am always open to new ideas and opportunities. You can learn more about me on my website or LinkedIn or reach out to me directly at gaganbaheti@gmail.com
+I am always open to new ideas and opportunities. You can learn more about me on my website or LinkedIn or reach out to me directly at gaganbaheti99@gmail.com
 
 Beside that I'm a Food Blogger 🙍🏽‍♂️ [@instagram](https://www.instagram.com/theculinarybae/?hl=en), Freelance 👨 article writer.🏽
 
@@ -22,7 +22,7 @@ This is my Hashtree which is made by Hashnode API. [Connect With me](https://has
 ✑ 🔭 I’m currently working on my blogs [Malware Hack!](https://09ganbeast.hashnode.dev/).
 
 
-✑ 🤔 Visit My Food Blogging [site](https://theculinarybae.xyz).
+✑ 🤔 Visit My Food Blogging [site](https://theculinarybae.github.io/).
 
 
 ✑ 💬 Ask me about Online Multiplayer Games, Gadgets and Stock Market.
