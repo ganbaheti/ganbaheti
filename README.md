@@ -1,20 +1,25 @@
-> # Always Seeking to Help Others <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [Ganbaheti!](https://www.gaganbaheti.me)
+> # Always Seeking to Help Others <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [Ganbaheti!](https://ganbaheti.github.io/)
+
  <img align='right' src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="330" height="500"> 
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganbaheti" alt="devded" /></p>
 
-Hi, I'm Gagan, a Full Stack Developer 🚀 from India, currently, I'm a Food Blogger 🙍🏽‍♂️ [@instagram](https://www.instagram.com/theculinarybae/?hl=en), Freelancer 👨🏽‍💻, Beside's programming, I enjoy esports gaming and adventure rides.
+
+About Me
+My name is Gagan Baheti, and I am a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything and everything that can be classified as technology💻 fascinates me.
+
+I currently live in Bangalore and working as a Security Consultant at IBM. 
+
+I follow a number of sports ranging from Cricket, UFC, Soccer⚽, Formula1🏎️ to various eSports🖱️. Other than that, I love solving puzzles🧩, playing chess on chess.com and listening to music🎶.
+
+I am always open to new ideas and opportunities. You can learn more about me on my website or LinkedIn or reach out to me directly at gaganbaheti@gmail.com
+
+Beside that I'm a Food Blogger 🙍🏽‍♂️ [@instagram](https://www.instagram.com/theculinarybae/?hl=en), Freelance 👨 article writer.🏽
 
 This is my Hashtree which is made by Hashnode API. [Connect With me](https://hashtree.vercel.app/09ganbeast/stylish-yellow)
   
-✑ 🔭 I’m currently working on my blogs [Malware Hack!](https://www.ompal.xyz).
-
-
-✑ 🌱 I’m currently learning Data Analytics.
-
-
-✑ 👯 I’m looking to collaborate in deep learning, analytics and data science.
+✑ 🔭 I’m currently working on my blogs [Malware Hack!](https://09ganbeast.hashnode.dev/).
 
 
 ✑ 🤔 Visit My Food Blogging [site](https://theculinarybae.xyz).
@@ -25,13 +30,12 @@ This is my Hashtree which is made by Hashnode API. [Connect With me](https://has
 
 ✑ 😄 Pronouns: yuckfoubitch ︻╦╤─ My in-game Name.
 > ⚡ Fun fact:
-> 1v5 , Yes, I will clutch. 
-
+> A good problem solver.
 
 
 ##### @ganbaheti
 <p align="center">
-  <a href="https://www.gaganbaheti.me"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="http://ganbaheti.github.io/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
  <a href="mailto:gaganbaheti99@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.facebook.com/gagan.baheti.5"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://twitter.com/09ganbeast"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
@@ -44,7 +48,6 @@ This is my Hashtree which is made by Hashnode API. [Connect With me](https://has
   <a href="https://medium.com/@gaganbaheti_it20"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   <a href="https://steamcommunity.com/id/yuckfoubitch/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
 </p>
-
 
 
 **Languages and Tools:**  
@@ -70,57 +73,4 @@ This is my Hashtree which is made by Hashnode API. [Connect With me](https://has
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ganbaheti&hide=css,java,html&theme=tokyonight">
 </p>
 </details>
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    118 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
-🌆 Daytime    214 commits    ████████░░░░░░░░░░░░░░░░░   33.23% 
-🌃 Evening    234 commits    █████████░░░░░░░░░░░░░░░░   36.34% 
-🌙 Night      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Wednesday    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-Thursday     101 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
-Friday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Saturday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
-Sunday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         10 repos            █████████████████░░░░░░░░   71.43% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-</details>
-
-
 
