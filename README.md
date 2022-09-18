@@ -69,8 +69,10 @@ This is my Hashtree which is made by Hashnode API. [Connect With me](https://has
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ganbaheti&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats-ganbaheti.vercel.app/api?username=ganbaheti&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ganbaheti&hide=css,java,html&theme=tokyonight">
 </p>
 </details>
+
+
 
