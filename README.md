@@ -9,7 +9,7 @@
 About Me
 My name is Gagan Baheti, and I am a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything and everything that can be classified as technology💻 fascinates me.
 
-I currently live in Bangalore and working as a Security Consultant at IBM. 
+I currently live in Bangalore and working as a SAP Consultant at IBM. 
 
 I follow a number of sports ranging from Cricket, UFC, Soccer⚽, Formula1🏎️ to various eSports🖱️. Other than that, I love solving puzzles🧩, playing chess on chess.com and listening to music🎶.
 
